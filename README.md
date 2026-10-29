@@ -13,7 +13,7 @@ Reemplaza TU_USUARIO_GITHUB en las imágenes por tu nombre de usuario de GitHub.
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" /></div>🚀 Proyectos
 Aquí iré compartiendo mis proyectos de desarrollo web, Python y bases de datos.
 <!-- Agrega aquí enlaces a tus repositorios destacados. -->🌐 Encuéntrame en mis redes
-<div align="center"><a href="https://www.youtube.com/@Chincheltk"><img src="https://img.shields.io/badge/YouTube-Chinchel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<div align="center"><a href="[https://www.youtube.com/@Chincheltk](https://www.youtube.com/@Chincheltk1)"><img src="https://img.shields.io/badge/YouTube-Chinchel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <!-- Reemplaza las direcciones siguientes por tus perfiles reales y elimina las que no utilices. -->
 
 <a href="https://www.tiktok.com/@TU_USUARIO_TIKTOK"><img src="https://img.shields.io/badge/TikTok-Perfil-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
