@@ -1,53 +1,24 @@
-# 👋 ¡Hola! Soy Michel
+<div align="center">¡Hola! Soy Michel 👋
+💻 Desarrollador en formación | 🎮 Creador de contenido
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Bienvenido+a+mi+perfil+de+GitHub;Aprendiendo+y+creando+con+c%C3%B3digo;Programaci%C3%B3n+%2B+Videojuegos+%F0%9F%8E%AE" alt="Animación de presentación" /></div>👨‍💻 Sobre mí
+- 🌱 Estoy aprendiendo Python, JavaScript y PostgreSQL.
+- 🛠️ Me gusta desarrollar sitios web y proyectos con bases de datos.
+- 🎮 También creo contenido sobre videojuegos, especialmente historias y curiosidades.
+- 🚀 Mi objetivo es seguir mejorando y compartir mis proyectos.
+🧰 Tecnologías y herramientas
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,python,postgres,git,github,vscode&perline=8" alt="Tecnologías: HTML, CSS, JavaScript, Python, PostgreSQL, Git, GitHub y VS Code" /></div>📊 Estadísticas de GitHub
+Reemplaza TU_USUARIO_GITHUB en las imágenes por tu nombre de usuario de GitHub.
 
-### 💻 Desarrollador en formación | 🎮 Creador de contenido
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" /></div>🚀 Proyectos
+Aquí iré compartiendo mis proyectos de desarrollo web, Python y bases de datos.
+<!-- Agrega aquí enlaces a tus repositorios destacados. -->🌐 Encuéntrame en mis redes
+<div align="center"><a href="https://www.youtube.com/@Chincheltk"><img src="https://img.shields.io/badge/YouTube-Chinchel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<!-- Reemplaza las direcciones siguientes por tus perfiles reales y elimina las que no utilices. -->
 
-Me apasionan la programación, los videojuegos y la creación de contenido.
-
----
-
-## 💻 Sobre mí
-
-- 🌱 Estoy aprendiendo Python, HTML, CSS, JavaScript y PostgreSQL.
-- 🛠️ Me gusta crear páginas web y proyectos con bases de datos.
-- 🎯 Mi objetivo es seguir creciendo como desarrollador.
-
-## 🛠️ Tecnologías
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 🎮 Bienvenido a Chinchel
-
-### 🩸 Historias, misterios y videojuegos
-
-En mi canal de YouTube comparto contenido sobre Resident Evil y otros videojuegos, explorando historias, personajes, teorías y curiosidades.
-
-### 🎬 Contenido del canal
-
-- 🧟 Historias y lore de Resident Evil
-- 🧠 Análisis psicológicos de personajes
-- 🔍 Misterios, secretos y teorías
-- 🎮 Contenido sobre otros videojuegos
-
-### 🔴 Visita mi canal
-
-[![YouTube](https://img.shields.io/badge/YouTube-Chinchel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Chincheltk)
-
----
-
-## 📊 Estadísticas de GitHub
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight)
-
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight)
-
----
-
-⭐ Gracias por visitar mi perfil. ¡Nos vemos en GitHub y YouTube!
+<a href="https://www.tiktok.com/@TU_USUARIO_TIKTOK"><img src="https://img.shields.io/badge/TikTok-Perfil-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+<a href="https://www.instagram.com/TU_USUARIO_INSTAGRAM/"><img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</div><div align="center">✨ Gracias por visitar mi perfil ✨
+Siempre aprendiendo, creando y mejorando.
+</div>
 
